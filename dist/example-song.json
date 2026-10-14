@@ -1,0 +1,20 @@
+{
+  "title": "我的日语学习片段",
+  "artist": "原创示例",
+  "lang": "ja-JP",
+  "lines": [
+    {
+      "text": "明日[あした] へ[へ] 歩こう[あるこう]",
+      "reading": "あした へ あるこう",
+      "translation": "向着明天迈步吧。",
+      "note": "へ 作助词时读作 え。歩こう 是 歩く 的意志形。",
+      "start": 0,
+      "end": null,
+      "words": [
+        {"term":"明日","reading":"あした","meaning":"明天","usage":"常用读音为 あした。","example":"明日、また会いましょう。","exampleTranslation":"明天再见吧。"},
+        {"term":"へ","reading":"へ","meaning":"向；朝","usage":"方向助词，发音为 え。"},
+        {"term":"歩こう","reading":"あるこう","meaning":"走吧；迈步吧","usage":"歩く 的意志形。"}
+      ]
+    }
+  ]
+}
